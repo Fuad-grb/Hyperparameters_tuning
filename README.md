@@ -22,3 +22,7 @@ The dataset used in this project is related to economic data over a period from 
 ## Getting Started
 To get started with this project, clone this repository and install the required packages listed in `requirements.txt`.
 
+```bash
+git clone https://github.com/Fuad-grb/hyperparameters_tuning.git
+cd your-repository-name
+pip install -r requirements.txt
